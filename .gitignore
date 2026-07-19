@@ -1,0 +1,19 @@
+Excel Temporary Files
+
+~$*.xls
+~$.xlsx
+~$.xlsm
+~$*.csv
+
+Power BI Temporary/Cache files
+
+*.pbix.bak
+.pbix.lock
+.pbi/
+.pbiSettings/
+
+Windows/Mac System Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
